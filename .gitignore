@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore model files (optional if using Git LFS)
+*.h5
+*.hdf5
